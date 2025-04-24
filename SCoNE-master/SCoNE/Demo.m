@@ -1,4 +1,4 @@
-% Demo for IJCAI25----SCoNE: Spherical Consistent Neighborhoods Ensemble for Effective and Efficient Multi-View Anomaly Detection
+% Demo for SCoNE: Spherical Consistent Neighborhoods Ensemble for Effective and Efficient Multi-View Anomaly Detection
 clear;clc;
 
 
